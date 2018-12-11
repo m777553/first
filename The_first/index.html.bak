@@ -1,0 +1,73 @@
+<!Doctype html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+	<meta name="author" content="Лиса">
+	<meta name="keywords" content="знакомство с HTML, CSS, вёрстка, front-end">
+	<title>Знакомство с вёрсткой</title>
+</head>
+
+<body>
+	<header class="main-header">
+		<section class="other-sites">
+			<a class="header-logo">
+			<img src="image/logo_fox.svg" alt="Лисий логотип" width="200px">
+			
+			</a>
+			<ul class="resurses-navigation">
+<!-- Здесь будет выпадающее меню с направлениями поисков на заданную тему-->
+				<li>HTML</li>
+				<li>CSS</li>
+				<li>JS</li>
+				<li>JQ</li>
+				
+			</ul>
+		</section>
+	
+	
+	</header>
+	<main>
+
+		<nav class="menu main-menu">
+<!--Здесь будут переходы на другие страницы сайта-->
+			<h1 class="title">Переход к тренировочным заданиям</h1>
+			<ul class="resurses-navigation">
+				<li>HTML</li>
+				<li>CSS</li>
+				<li>JS</li>
+				<li>JQ</li>
+				
+			</ul>
+			
+		
+		</nav>
+		<section class="base main-base">
+			<h1 class="base-title">Мои записки сумасшедшего или "Лисий дневник"</h1>
+		
+		</section>	
+	
+	</main>
+	<footer>
+	<p class="footer-contacts">
+		Лисичка <br>
+		Адрес: г. Санкт-Петербург, Тихорецкий пр, д. 27 к 2 <br>
+		<a href="map.html">Как меня найти?</a><br>
+		Телефон: +7 (904) 631-40-88
+		</p>
+		
+		<div class="footer-social">
+			<b>Давайте дружить!</b>
+			<a class="social-button" href="#">Вконтакте</a> 
+			<a class="social-button" href="#">Фейсбук</a> 
+			<a class="social-button" href="#">Инстаграмм</a> 
+		
+		</div>
+		
+		</div>
+        <p class="footer-copyright">
+            <b>Разработано:</b>
+            <a class="button" href="https://vk.com/id1039209">Лиса</a>
+        </p>
+	
+	</footer>
+</html>
